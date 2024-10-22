@@ -20,3 +20,5 @@ Hierarchical Clustering: Builds a hierarchy of clusters.
 Association Rule Learning:
 Apriori Algorithm: Used to find associations and relationships between different items in large datasets (e.g., market basket analysis).
 Eclat Algorithm: Another association rule algorithm used for finding frequent item sets.
+
+About link :https://chatgpt.com/share/67177271-d8cc-8012-b321-8c5cb7ac690f
